@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi I'm a talkative BE developer 👋
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=08hyundo&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=08hyundo&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=08hyundo&theme=default&utcOffset=8)
 
 <!--
 **08hyundo/08hyundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
